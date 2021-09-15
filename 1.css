@@ -1,0 +1,6 @@
+:root{
+    --mau-sac: green;
+}
+h1{
+    color: var(--mau-sac);  
+}
